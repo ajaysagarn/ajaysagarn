@@ -3,7 +3,7 @@
 Am a Computer Science graduate student at the University of Illinois at chicago and a former full stack developer at Esko.
 My interests are in designing and developing cloud native applications that are scalable and robust.
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 <hr/>
 Masters in Computer Science at the University of Illinois at Chicago
  * Distributed Cloud Computing

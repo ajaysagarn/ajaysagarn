@@ -15,7 +15,7 @@ Masters in Computer Science at the University of Illinois at Chicago
 ### How to reach me
 
 Have a team? or a project? or just looking to collaborate, you can react out to me at:
-<a href="mailto:ajaysagarn@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ajay-sagarn/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:anandi6@uic.edu">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ajay-sagarn/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Github stats
 

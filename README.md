@@ -18,6 +18,8 @@ Have a team? or a project? or just looking to collaborate, you can react out to 
 <a href="mailto:anandi6@uic.edu">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ajay-sagarn/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Github stats
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ajaysagarm.ajaysagarn)](https://github.com/ajaysagarn) 
+[![GitHub followers](https://img.shields.io/github/followers/ajaysagarn.svg?style=social&label=Follow)](https://github.com/ajaysagarn?tab=followers)
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaysagarn&show_icons=true&theme=dark)
 
